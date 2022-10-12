@@ -1,0 +1,25 @@
+
+
+.my-class {
+  border: 2px solid darkmagenta;
+  margin: auto;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: blanchedalmond;
+  display: block;
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+
+
+
+
